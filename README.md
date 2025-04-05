@@ -1,5 +1,7 @@
 # smart_research_assistant_project
 
+
+#### Build with Langchain framework
 conda create -n myenv python==3.11 -y 
 
 conda activate myenv
